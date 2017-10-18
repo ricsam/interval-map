@@ -64,5 +64,5 @@ intervals.findIntervalGaps([1, 12], {inclusiveLeft: true});
 ### Argument
 ```javascript
 const imap = require('interval-map');
-const 
+const
 ```
